@@ -24,7 +24,7 @@ int main()
 	ans = num1 / num2;
 	printf("%d / %d = %d\n", num1, num2, ans);
 	
-	ans = num1 % num2;90 / 9 = 10
+	ans = num1 % num2;
 	printf("%d mod %d = %d\n", num1, num2, ans);
 	
 	return 0;
