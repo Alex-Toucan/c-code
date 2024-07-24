@@ -11,7 +11,7 @@ int main()
 	
 	char dog;
 	printf("Enter a character: ");
-	scanf("%c", &dog);
+	scanf(" %c", &dog);
 	printf("Dog is the %c character\n", dog);
 	
 	float price;
